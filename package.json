@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/lucian bala.lwc-kwg9s5hc",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 7RdV9v1c9JfEBoIT0ilc --open"
+  }
+}
